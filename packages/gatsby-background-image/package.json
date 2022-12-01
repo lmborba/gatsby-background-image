@@ -1,7 +1,7 @@
 {
   "name": "@iwong/gatsby-background-image",
   "description": "Lazy-loading React background-image component with optional support for the blur-up effect.",
-  "version": "1.6.4",
+  "version": "1.6.5",
   "author": "Tim Hagn <mail@timhagn.com>",
   "contributors": [
     "Tim Hagn <mail@timhagn.com>",
