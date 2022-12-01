@@ -14,7 +14,7 @@
   ],
   "version": "independent",
   "npmClient": "yarn",
-  "registry": "https://registry.npmjs.org/",
+  "registry": "https://npm.pkg.github.com/",
   "useWorkspaces": true,
   "ignoreChanges": [
     "CHANGELOG.md",
